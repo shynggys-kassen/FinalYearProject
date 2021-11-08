@@ -1,0 +1,6 @@
+pillow
+pytessaract
+tkinter
+opencv-python
+numpy
+shapely
